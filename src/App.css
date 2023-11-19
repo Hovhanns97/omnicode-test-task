@@ -1,4 +1,11 @@
 .main {
   width: 100%;
-  background: #111111;
+  background: rgb(92, 30, 254);
+  background: linear-gradient(
+    145deg,
+    rgba(92, 30, 254, 1) 0%,
+    rgba(0, 0, 0, 1) 12%,
+    rgba(0, 0, 0, 1) 80%,
+    rgba(255, 45, 247, 1) 100%
+  );
 }
